@@ -1,4 +1,7 @@
-# <img src="./client/src/images/logo.jpg" alt="Logo" width="100" height="70" > Guide Through
+<h1>
+  <img src="./client/src/images/logo.jpg" alt="Logo" width="100" height="50" style="vertical-align: middle;">
+  Guide Through
+</h1>
 
 
 
