@@ -16,6 +16,7 @@
 - [Queries](#queries)
 - [Detail Documentation](#detail-documentation)
 - [Get Started](#get-started)
+- [Note](#note)
 
 ## Project description
 In today's fast-paced world, individuals often face confusion and uncertainty due to a lack of clear guidance and reliable information. The overwhelming volume of unstructured and scattered information available online makes it challenging to find trustworthy advice. **Guide Through** addresses this problem by organizing content into different categories to share insights and experiences, facilitating community interaction and support. **Guide Through** aims to reduce the time users spend on decision-making and planning, enabling them to focus more on executing their tasks rather than wasting time figuring things out.
@@ -162,6 +163,8 @@ To effectively use **Guide Through**, follow these steps:
 - **Customizable User Profiles**: Allow users to personalize their profiles with themes, profile pictures, bios, and links to their social media.
 
 - **Rich Media Support**: Support uploading and embedding of rich media such as videos, images, and infographics within posts and answers.
+  
+- **Browser Compatibility**: Ensure compatibility across all major web browsers to improve accessibility and user experience. Currently optimized for Firefox (both desktop and mobile versions).
 
 ## Queries
 
@@ -174,5 +177,5 @@ For a comprehensive understanding of **Guide Through**, please refer to our [Ful
 ## Get Started
 
 Ready to **glide through** life with ease? Sign up now and join our community of users committed to making life simpler and more fulfilling.
-
-
+## Note
+This application works best on Firefox (both desktop and mobile versions). There are known issues with other browsers that we plan to address in future updates.
