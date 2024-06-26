@@ -170,7 +170,7 @@ For any questions or inquiries regarding **Guide Through**, please contact us at
 
 ## Detail Documentation
 
-For a comprehensive understanding of **Guide Through**, please refer to our [Full Detail Documentation](https://1drv.ms/b/s!Ag9Ge0qNoAKwjYhAnXq-qumGXhWfDQ?e=fTNHoG).
+For a comprehensive understanding of **Guide Through**, please refer to our [Full Detail Documentation](https://1drv.ms/b/s!Ag9Ge0qNoAKwjYhB8-fIKMbW2Xsb6g?e=JTEkbY).
 
 ## Note
 
