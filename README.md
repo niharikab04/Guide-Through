@@ -112,7 +112,7 @@ First, create the environment variables file `.env` in the server folder. The `.
 To effectively use **Guide Through**, follow these steps:
 
 1. **Accessing the Application**:
-   - Open your web browser(Firefox) and navigate to the URL where the application is hosted ([https://gt-frontend-fawn.vercel.app/](https://gt-frontend-fawn.vercel.app/)).
+   - Open your web browser(Firefox) and navigate to the URL where the application is hosted ([https://gt-frontend-fawn.vercel.app/](https://gt-frontend-fawn.vercel.app/)).</br>
      <I> NOTE :This application works best on Firefox (both desktop and mobile versions). There are known issues with other browsers that we plan to address in future updates.</I>
 
 2. **Creating an Account**:
