@@ -1,5 +1,5 @@
 <h1>
-  <img src="./client/src/images/logo.jpg" alt="Logo" width="100" height="50" style="vertical-align: middle;">
+  <img src="./client/public/favicon.png" alt="Logo" width="100" height="50" style="vertical-align: middle;">
   Guide Through
 </h1>
 
