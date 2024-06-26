@@ -1,4 +1,4 @@
-# <img src="./client/public/favicon.png" alt="Logo" width="50" height="40" > Guide Through
+# <img src="./client/public/favicon.png" alt="Logo" width="40" height="30" > Guide Through
 
 
 
