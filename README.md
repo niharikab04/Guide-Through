@@ -1,4 +1,5 @@
-# <img src="./client/src/images/logo.jpg" alt="Logo" width="100" height="50">Guide Through
+# <img src="./client/src/images/logo.jpg" alt="Logo" width="100" height="50" style="vertical-align: middle;"> Guide Through
+
 
 
 **Guide Through** is a social web app designed to streamline decision-making by providing a platform for users to share and benefit from each other's insights and experiences.
